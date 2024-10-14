@@ -1,1 +1,1 @@
-# Uni projects assigned
+# Uni projects and assignments documentation
